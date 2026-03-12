@@ -1,1 +1,1 @@
-# Java-oops-end-sem-project
+# Ai fsb lib management
